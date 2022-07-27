@@ -1,5 +1,5 @@
 Hi, my name is <strong>Al</strong>varo <strong>Oy</strong>ague <strong>Fa</strong>lconi 
-🧑🏻‍💻I'm junior web developer. 
+junior web developer 🧑🏻‍💻.
 
 📚 I'm learning more about frontend frameworks like Angular, React and Vue.js. 
 
